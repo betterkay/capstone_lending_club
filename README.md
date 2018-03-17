@@ -21,7 +21,9 @@ possible data exploration:
 ## week 3
 
 NLP: for emp_title and desc(question: how to deal with missing value for nlp)
+
 data preparation:merge data from 2007 to 2017
+
 set project goal: predict default rate for investor
 
 
@@ -37,4 +39,5 @@ data modeling:
  - random forest(grid search: using downsampling to tune parameter, then train model and test the model)
  - xgboost
  - averaging ensamble
+ 
 demo
